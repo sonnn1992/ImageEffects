@@ -325,7 +325,7 @@
 				ENABLE_TESTABILITY = YES;
 				INFOPLIST_FILE = UIImageEffects/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gtmedia.UIImageEffects;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -351,7 +351,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = UIImageEffects/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.gtmedia.UIImageEffects;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -523,6 +523,7 @@
 				023143B01E6DB1F500C36CBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		03AC7B641B149C690015C171 /* Build configuration list for PBXProject "ImageEffects" */ = {
 			isa = XCConfigurationList;
